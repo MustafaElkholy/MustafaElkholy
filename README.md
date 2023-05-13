@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MustafaElkholy
 - 👀 I’m interested in creating web applications with Microsoft .Net Core Framework
-- 🌱 I’m currently learning ASP.Net.
+- 🌱 I’m currently trainee in ITI ASP.Net Diploma.
 - 📫 How to reach me https://www.linkedin.com/in/mustafaelkholy74/
 
 <!---
